@@ -1,0 +1,7 @@
+D:\0_Drive_E\SEM-6\SOC\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\0_Drive_E\SEM-6\SOC\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\0_Drive_E\SEM-6\SOC\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\0_Drive_E\SEM-6\SOC\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojAssemblyReference.cache
+D:\0_Drive_E\SEM-6\SOC\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+D:\0_Drive_E\SEM-6\SOC\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\0_Drive_E\SEM-6\SOC\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
